@@ -252,5 +252,3 @@ function memes(message, meme){
 client.login('NzY5MzA2Mjc1NjY1MjgxMDQ2.X5NGTQ.roQvACX_lvjxywgsUA2_Y60neb0');
 
 
-// weaker97@gmail.com
-// tutankhamen12
